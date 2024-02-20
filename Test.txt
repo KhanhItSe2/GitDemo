@@ -5,12 +5,7 @@ c
 c
 c
 c
-c
-ccc
-cc
-c
-c
-c
+
 c
 cccc
 c
